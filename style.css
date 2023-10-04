@@ -40,3 +40,7 @@
     .imagem_arvore{
     width: 15%;
     }
+
+    .cor_fundo{
+        background-image: linear-gradient(rgb(235, 11, 11), #a53e2c);
+    }
